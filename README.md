@@ -92,6 +92,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [Practical Object Oriented Design in Ruby](http://www.poodr.com/)
 - :movie_camera: [Evolutionary Software Architectures](https://www.youtube.com/watch?v=CglSFhwbI3s)
 - [System Design: A Primer](https://github.com/donnemartin/system-design-primer)
+- :page_facing_up: [How JavaScript works: part-1](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf), [2](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e), [3](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec), [4](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
 
 ### Practices
 - :book: [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)
@@ -123,7 +124,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [How To Interview As a Developer Candidate](https://medium.freecodecamp.com/how-to-interview-as-a-developer-candidate-b666734f12dd)
 - :book: [How To Be A STAR Engineer](http://vlsicad.ucsd.edu/Research/Advice/star_engineer.pdf)
 - :page_facing_up: [TL;DR; Stock Options](https://tldroptions.io/)
-- :page_facing_up: [Equity 101 for Startup Employees](https://blog.esharesinc.com/equity-101-stock-option-basics/)
+- :page_facing_up: [Equity 101 for Startup Employees](https://blog.carta.com/equity-101-stock-option-basics/)
 - :book: [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/book/show/25707092-cracking-the-coding-interview)
 - :fire: [Everything you need to know to get the job](https://github.com/kdn251/interviews)
 - :book: [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
@@ -134,6 +135,9 @@ But knowing the stuff will help you become better! :muscle:*
 ### UX/Usability
 - :book: [Don't Make Me Think: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
 - :movie_camera: [Inventing on Principle](https://vimeo.com/36579366)
+
+### Open Source
+- :globe_with_meridians: [An Intro to Git and GitHub for Beginners](http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
 ### Remote Work
 - :globe_with_meridians: [Remote Work List for Developers](https://github.com/georgemandis/remote-working-list)
@@ -176,6 +180,7 @@ But knowing the stuff will help you become better! :muscle:*
 - [Without Coding](https://www.producthunt.com/@jurica87/collections/without-coding)
 - [Simpleicons](https://simpleicons.org/)
 - [Learn Anything](https://learn-anything.xyz/)
+- [repl.it](https://repl.it/)
 
 ### Licenses
 - [Choose An Open Source License](https://choosealicense.com/)
@@ -186,10 +191,12 @@ But knowing the stuff will help you become better! :muscle:*
 - [GeeksForGeeks](http://www.geeksforgeeks.org/)
 - [Dev.To](https://dev.to/)
 - [Stack Overflow](https://stackoverflow.com/)
+- [Dzone](https://dzone.com/)
 
 ### Coding Practice Sites :zap:
 - :link: [CodeForces](http://codeforces.com/)
 - :link: [CodeChef](https://www.codechef.com)
+- :link: [Coderbyte](https://coderbyte.com/)
 - :link: [CodinGame](https://www.codingame.com/)
 - :link: [Cs Academy](https://csacademy.com/)
 - :link: [HackerRank](https://hackerrank.com/)
@@ -202,4 +209,6 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [Project Euler](https://projecteuler.net/)
 - :link: [LeetCode](https://leetcode.com/)
 - :link: [InterviewBit](https://www.interviewbit.com/)
+- :link: [LintCode](https://www.lintcode.com/)
+- :link: [CodeCombat](https://codecombat.com/)
 
