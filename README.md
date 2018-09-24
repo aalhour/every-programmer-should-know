@@ -55,6 +55,7 @@ But knowing the stuff will help you become better! :muscle:*
 
 ### Time
 - :page_facing_up: [Some notes about time](https://unix4lyfe.org/time/)
+- :movie_camera: [The Problem with Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY)
 
 ### Memory
 - :page_facing_up: [What every Programmer should know about memory](https://lwn.net/Articles/250967/)
@@ -154,6 +155,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [The mythical 10x programmer](http://antirez.com/news/112)
 - :page_facing_up: [The Debugging Mindset](https://queue.acm.org/detail.cfm?id=3068754)
 - :movie_camera: [The Future of Programming](http://worrydream.com/dbx/)
+- :page_facing_up: [The Good Software Development Manifesto](https://www.infoworld.com/article/3214481/application-development/the-good-software-development-manifesto.html)
 
 ### Problem Solving
 - :book: [The Art and Craft of Problem Solving](https://www.goodreads.com/book/show/593458.The_Art_and_Craft_of_Problem_Solving)
@@ -209,7 +211,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [Project Euler](https://projecteuler.net/)
 - :link: [LeetCode](https://leetcode.com/)
 - :link: [InterviewBit](https://www.interviewbit.com/)
-- :link: [uCoder](ucoder.com.br)
+- :link: [uCoder](https://ucoder.com.br)
 - :link: [LintCode](https://www.lintcode.com/)
 - :link: [CodeCombat](https://codecombat.com/)
-
+- :link: [InterviewCake](https://www.interviewcake.com/)
