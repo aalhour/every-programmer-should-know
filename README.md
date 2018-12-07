@@ -80,6 +80,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [Foundations of Security: What Every Programmer Needs to Know ](https://www.goodreads.com/book/show/128003.Foundations_of_Security)
 - [OWASP Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 - [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/part1)
+- :page_facing_up: [Hashing, Encryption and Encoding](https://www.integralist.co.uk/posts/hashing-and-encryption/)
 
 ### SEO
 - :page_facing_up: [What Every Programmer Should Know About SEO](https://katemats.com/what-every-programmer-should-know-about-seo/)
@@ -110,6 +111,7 @@ But knowing the stuff will help you become better! :muscle:*
 - [Hyperpolyglot](http://hyperpolyglot.org/)  
   Compare commonly used features of more or less similar languages side-by-side. Helps you to jump Python<->Ruby, Ocaml<->Haskell, etc.
 - :page_facing_up: [Pomodoro for Programmers](https://blog.metadevelopment.io/pomodoro-for-programmers/)
+- :book: [Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/index.html)
 
 ### Career
 - :page_facing_up: [10 Things Every Programmer Should Know For Their First Job](http://www.applematters.com/article/10-things-every-programmer-should-know-for-their-first-job/)
@@ -210,8 +212,10 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [CodeFights](https://codefights.com/)
 - :link: [Project Euler](https://projecteuler.net/)
 - :link: [LeetCode](https://leetcode.com/)
+- :link: [Firecode.io](https://www.firecode.io/)
 - :link: [InterviewBit](https://www.interviewbit.com/)
 - :link: [uCoder](https://ucoder.com.br)
 - :link: [LintCode](https://www.lintcode.com/)
 - :link: [CodeCombat](https://codecombat.com/)
 - :link: [InterviewCake](https://www.interviewcake.com/)
+- :link: [At Coder](https://atcoder.jp/)
