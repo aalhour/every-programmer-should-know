@@ -74,7 +74,7 @@ But knowing the stuff will help you become better! :muscle:*
 
 ### RegExp
 - [RegexHQ](https://github.com/regexhq)
-- [Learn regex the easy way](https://github.com/zeeshanu/learn-regex)
+- [Learn regex the easy way](https://github.com/ziishaned/learn-regex)
 
 ### Security
 - :book: [Security Programming](https://www.dwheeler.com/secure-programs/)
@@ -181,6 +181,10 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [Difficult Conversations](https://www.goodreads.com/book/show/774088.Difficult_Conversations)
 - :book: [Crucial Conversations](https://www.goodreads.com/book/show/15014.Crucial_Conversations)
 - :book: [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
+
+### Mental Health
+- [Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health)  
+  A curated list of awesome articles, websites and resources about mental health in the software industry.
 
 ### Papers on Programming
 - :heart: [Papers We Love](https://github.com/papers-we-love/papers-we-love)
